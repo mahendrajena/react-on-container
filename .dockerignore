@@ -1,0 +1,5 @@
+# All files not required
+
+Dockerfile
+.dockerignore
+node_modules

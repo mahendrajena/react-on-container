@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Sample React App on Container
+          Sample React App on Container 2
         </p>
         
       </header>
