@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Sample React App on Container (TeamCityBuild)
+          Sample React App on Container (TeamCityBuild - 8)
         </p>
         <div>My Env : {process.env.NODE_ENV}</div>
       </header>
