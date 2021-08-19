@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Sample React App on Container 2
+          Sample React App on Container
         </p>
-        
+        <div>My Env : {process.env.NODE_ENV}</div>
       </header>
     </div>
   );
