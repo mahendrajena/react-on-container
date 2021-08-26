@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Sample React App on Container (TeamCityBuild - 27 Aug V2)
+          Sample React App on Container (TeamCityBuild - 27 Aug V3)
         </p>
        </header>
     </div>
